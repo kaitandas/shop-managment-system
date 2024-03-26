@@ -1,6 +1,4 @@
 
-Certainly! Below is a basic README template for your Shop Management System project in C++:
-
 Shop Management System:
 The Shop Management System is an object-oriented project developed in C++ for the second-semester coursework. It serves as a platform for managing a retail shop, allowing administrators to perform various tasks such as adding, deleting, and updating products, while customers can purchase products from the shop.
 
